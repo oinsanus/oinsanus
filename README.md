@@ -59,7 +59,7 @@ _Hello there this is **Ashutosh Dwivedi**. I am currently an electrical engineer
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
-<table width="100">
+<table align='center' width="100">
 <tr>
     <td align='center' width="190">
         <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
