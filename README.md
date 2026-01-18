@@ -45,18 +45,6 @@ _Hello there this is **Misael CArvalho**. I am currently an electrical engineeri
 
 </br>
 
-<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
-
-</br>
-
 <h2 align='center'><i>Languages and Tools</i></h2>
 
 <table align='center' width="100">
@@ -76,10 +64,4 @@ _Hello there this is **Misael CArvalho**. I am currently an electrical engineeri
 </tr>
 </table>
 
-<h2 align='center'><i>Top Repos</i></h2>
 
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
-</a>
-</p>
