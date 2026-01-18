@@ -62,13 +62,13 @@ _Hello there this is **Ashutosh Dwivedi**. I am currently an electrical engineer
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+        <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+        <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
     </td>
     <td align='center'  width="190">
         <img src="https://cdn.worldvectorlogo.com/logos/c.svg">
