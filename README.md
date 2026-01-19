@@ -36,16 +36,16 @@ _Hello there this is **Misael Carvalho**. I'm currently an electrical engineerin
 
 <table align='center' width="100">
 <tr>
-    <td align='center' width="190">
+    <td align='center' width="100">
         <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
     </td>
-    <td align='center' width="190">
+    <td align='center' width="100">
         <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
     </td>
-    <td align='center' width="190">
+    <td align='center' width="100">
         <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
     </td>
-    <td align='center'  width="190">
+    <td align='center'  width="100">
         <img src="https://cdn.worldvectorlogo.com/logos/c.svg">
     </td>
 </tr>
