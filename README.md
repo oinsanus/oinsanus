@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
+<img align="right" src="https://github.com/oinsanus/stats_transparent/blob/main/overview.svg"  width="400">
 
 _Hello there this is **Misael Carvalho**. I'm currently an electrical engineering student. You can see my opensource work down below._  
 <h3 align='center'><i>Social Media Handles</i></h3>
