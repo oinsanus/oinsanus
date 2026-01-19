@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
 
-_Hello there this is **Misael CArvalho**. I am currently an electrical engineering student. You can see my opensource work down below._  
+_Hello there this is **Misael CArvalho**. I'm currently an electrical engineering student. You can see my opensource work down below._  
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
