@@ -29,9 +29,7 @@ _Hello there this is **Misael Carvalho**. I'm currently an electrical engineerin
     </td>
 </tr>
 </table>
-
 </p>
-
 </br>
 
 <h2 align='center'><i>Languages and Tools</i></h2>
